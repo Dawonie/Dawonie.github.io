@@ -1,0 +1,112 @@
+body {
+    background: scroll;
+    background-color: white;
+    padding: 0 20px;
+}
+
+a {
+    color: rgb(255, 210, 218);
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration-line: none;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+.cat {
+    text-align:end
+}
+
+.header {
+    display: flex;}
+img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.image-container{
+    display: flex;
+}
+
+.image-container > img{
+    width: 100px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Rubik Bubbles', system-ui;
+    color: rgb(255, 210, 218);
+}
+
+.gifts{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h4 {
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(88, 88, 88);
+}
+
+h5 {
+    text-align: center;
+    color: rgb(27, 27, 27);
+    font-weight: lighter;
+}
+legend {
+    font-weight: bold;
+}
+
+button {
+    border: 1px solid black;
+    text-decoration: underline;
+    color: white;
+}
+.button1 {
+    background-color: orange;
+}
+
+.button2 {
+    background-color: gray;
+}
+
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    color: rgb(234, 173, 183)
+}
+
+legend {
+    font-weight: bold;
+}
+
+button {
+    border: 1px solid black;
+    text-decoration: underline;
+    color: white;
+}
+.button1 {
+    background-color: orange;
+}
+
+.button2 {
+    background-color: gray;
+}
+
+.title-red {
+    color: red
+}
